@@ -1,4 +1,2 @@
 #web-page
-JESÚS GONZÁLEZ
-Economista Universidad del Atlantico
-Estudiante Especialidad en Analitica de Datos
+Esta es una prueba de la pagina web
